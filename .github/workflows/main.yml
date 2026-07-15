@@ -51,9 +51,8 @@ jobs:
           # 从名单中不重复抽取
           selected=$(printf "%s\n" "${raw_list[@]}" | shuf -n $pick_count)
           
-          selected_str=$(echo "$selected" | while IFS= read -r line; do
-            echo -n "$line、"
-          done | sed 's/、$//')
+          # 每行带序号（1. 名字）
+          selected_str=$(echo "$selected" | awk '{print NR". "$0}')
           
           echo "selected<<EOF" >> $GITHUB_OUTPUT
           echo "$selected" >> $GITHUB_OUTPUT
