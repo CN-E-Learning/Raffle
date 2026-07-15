@@ -42,8 +42,8 @@ jobs:
             exit 1
           fi
           
-          # 抽取人数
-          pick_count=10
+          # 抽取人数（改为25）
+          pick_count=25
           if [ "$pick_count" -gt "$total_count" ]; then
             pick_count=$total_count
           fi
@@ -54,12 +54,12 @@ jobs:
           # 每行带序号（1. 名字）
           selected_str=$(echo "$selected" | awk '{print NR". "$0}')
           
-          # 写入多行输出 selected（使用 SELECTED_EOF 作为边界）
+          # 写入多行输出 selected
           echo "selected<<SELECTED_EOF" >> $GITHUB_OUTPUT
           echo "$selected" >> $GITHUB_OUTPUT
           echo "SELECTED_EOF" >> $GITHUB_OUTPUT
           
-          # 写入多行输出 selected_str（使用 STR_EOF 作为边界）
+          # 写入多行输出 selected_str
           echo "selected_str<<STR_EOF" >> $GITHUB_OUTPUT
           echo "$selected_str" >> $GITHUB_OUTPUT
           echo "STR_EOF" >> $GITHUB_OUTPUT
@@ -81,7 +81,7 @@ jobs:
           selected_str="${{ steps.pick.outputs.selected_str }}"
           
           cat > README.md << EOF
-          # 名单
+          # 《电教委员指南》抽奖仓库
 
           ## 抽取结果
 
@@ -90,7 +90,7 @@ jobs:
           抽取人数：${pick_count}  
           生成时间：${time}  
 
-          ## 本次抽中名单
+          ## 获奖名单
           ${selected_str}  
           EOF
           
@@ -115,7 +115,7 @@ jobs:
         run: |
           echo "从 ${{ steps.pick.outputs.total }} 个候选人中抽取了 ${{ steps.pick.outputs.pick_count }} 人"
           echo ""
-          echo "本次抽中名单："
+          echo "获奖名单："
           echo "${{ steps.pick.outputs.selected_str }}"
           echo ""
           echo "结果已写入 README.md"
