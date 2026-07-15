@@ -54,11 +54,17 @@ jobs:
           # 每行带序号（1. 名字）
           selected_str=$(echo "$selected" | awk '{print NR". "$0}')
           
-          echo "selected<<EOF" >> $GITHUB_OUTPUT
+          # 写入多行输出 selected（使用 SELECTED_EOF 作为边界）
+          echo "selected<<SELECTED_EOF" >> $GITHUB_OUTPUT
           echo "$selected" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          echo "SELECTED_EOF" >> $GITHUB_OUTPUT
           
-          echo "selected_str=$selected_str" >> $GITHUB_OUTPUT
+          # 写入多行输出 selected_str（使用 STR_EOF 作为边界）
+          echo "selected_str<<STR_EOF" >> $GITHUB_OUTPUT
+          echo "$selected_str" >> $GITHUB_OUTPUT
+          echo "STR_EOF" >> $GITHUB_OUTPUT
+          
+          # 单行输出
           echo "total=$total_count" >> $GITHUB_OUTPUT
           echo "pick_count=$pick_count" >> $GITHUB_OUTPUT
           
