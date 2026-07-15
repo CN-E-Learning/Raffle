@@ -15,35 +15,35 @@
 - 数据来源：.github/raffle/pool.txt
 - 候选人数：100
 - 中奖人数：25
-- 生成时间：2026-07-15T08:21:49.159Z
+- 生成时间：2026-07-15T08:28:26.930Z
 
 #### 中奖名单
 
-1. testuser48
-2. testuser61
-3. testuser80
-4. testuser91
-5. testuser38
-6. testuser75
-7. testuser83
-8. testuser47
-9. testuser16
-10. testuser11
-11. testuser1
-12. testuser78
-13. testuser22
-14. testuser21
-15. testuser4
-16. testuser50
-17. testuser45
-18. testuser14
-19. testuser23
-20. testuser60
-21. testuser56
-22. testuser79
-23. testuser53
-24. testuser12
-25. testuser67
+1. testuser43
+2. testuser95
+3. testuser93
+4. testuser88
+5. testuser37
+6. testuser85
+7. testuser34
+8. testuser26
+9. testuser46
+10. testuser63
+11. testuser54
+12. testuser23
+13. testuser75
+14. testuser18
+15. testuser51
+16. testuser44
+17. testuser82
+18. testuser76
+19. testuser90
+20. testuser3
+21. testuser79
+22. testuser73
+23. testuser77
+24. testuser71
+25. testuser49
 
 
 <!-- raffle:winners:end -->
