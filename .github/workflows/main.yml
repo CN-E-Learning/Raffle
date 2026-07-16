@@ -85,7 +85,7 @@ jobs:
 
           ## 抽取结果
 
-          数据来源：list.txt
+          数据来源：list.txt  
           候选人数：${total}  
           抽取人数：${pick_count}  
           生成时间：${time}  
