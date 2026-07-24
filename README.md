@@ -5,31 +5,31 @@
 数据来源：list.txt  
 候选人数：107  
 抽取人数：25  
-生成时间：2026-07-24  15:22:35.000  
+生成时间：2026-07-24  15:23:49.000  
 
 ## 获奖名单
-1. shabuleke
-2. SYSTEM-BAOD-ZYQ
-3. QKboss
-4. ling_qwqawa
-5. K-H
-6. kajolno
-7. sunqwq
-8. xiguang
-9. yizhilanzhu
-10. 有亿点小乐
-11. ZhouZhou
-12. Next-OS-Studio
-13. apanzinc
-14. Hulobo
-15. Jas0n326
-16. Bigznnn
-17. MineThinPCraft
-18. uyindnul
-19. TJX
-20. IsHPDuwu
-21. creeper145664
-22. Ayheit
-23. daiyu
-24. aa76
-25. BSLT20240814  
+1. 无聊
+2. TTStudio
+3. ywydog
+4. NikaidouHiro114
+5. Leafs
+6. 木亘
+7. Hulobo
+8. 岁月迷
+9. Wrxsidox
+10. lyxqp
+11. gvbhj2019
+12. Bigznnn
+13. LHY
+14. 凛冬mini
+15. AWAurora233
+16. LR85788888
+17. uyindnul
+18. Twtianer
+19. Cx330
+20. cckcm
+21. yudun
+22. siruieduasherL
+23. Jas0n326
+24. MengHanLOVE
+25. weiderui  
