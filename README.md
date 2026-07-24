@@ -5,31 +5,31 @@
 数据来源：list.txt  
 候选人数：107  
 抽取人数：25  
-生成时间：2026-07-24  15:23:49.000  
+生成时间：2026-07-24  15:24:29.000  
 
 ## 获奖名单
-1. 无聊
-2. TTStudio
-3. ywydog
-4. NikaidouHiro114
-5. Leafs
-6. 木亘
-7. Hulobo
-8. 岁月迷
-9. Wrxsidox
-10. lyxqp
+1. Yihggh
+2. Edwards_Ma
+3. TTStudio
+4. weiderui
+5. Bigznnn
+6. yizhilanzhu
+7. xiguang
+8. aa76
+9. 张力Zennon
+10. XiaZihan
 11. gvbhj2019
-12. Bigznnn
-13. LHY
-14. 凛冬mini
-15. AWAurora233
-16. LR85788888
-17. uyindnul
-18. Twtianer
-19. Cx330
-20. cckcm
-21. yudun
-22. siruieduasherL
-23. Jas0n326
-24. MengHanLOVE
-25. weiderui  
+12. Zpcin
+13. yijiananhangboyin747
+14. dawn の
+15. swx
+16. XINGHAI
+17. makitoid
+18. 阿tan
+19. siruieduasherL
+20. Millennium
+21. Wrxsidox
+22. Hongbro886
+23. Jerry20142
+24. sunmioko
+25. 岁月迷  
