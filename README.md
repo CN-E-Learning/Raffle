@@ -5,31 +5,31 @@
 数据来源：list.txt  
 候选人数：107  
 抽取人数：25  
-生成时间：2026-07-24  15:24:29.000  
+生成时间：2026-07-24  15:25:59.000  
 
 ## 获奖名单
-1. Yihggh
-2. Edwards_Ma
-3. TTStudio
-4. weiderui
-5. Bigznnn
-6. yizhilanzhu
-7. xiguang
-8. aa76
-9. 张力Zennon
-10. XiaZihan
-11. gvbhj2019
-12. Zpcin
-13. yijiananhangboyin747
-14. dawn の
-15. swx
-16. XINGHAI
-17. makitoid
-18. 阿tan
-19. siruieduasherL
-20. Millennium
-21. Wrxsidox
-22. Hongbro886
-23. Jerry20142
-24. sunmioko
-25. 岁月迷  
+1. aa76
+2. DCR-panxia
+3. Hulobo
+4. siruieduasherL
+5. uyindnul
+6. jmj626000
+7. Leafs
+8. cckcm
+9. tuanzi-awa
+10. 张
+11. Ayheit
+12. IsHPDuwu
+13. Yihggh
+14. doudou0720
+15. QKboss
+16. TTStudio
+17. 张力Zennon
+18. ShuYin3120
+19. Jerry20142
+20. 。
+21. JerryCommander
+22. Hanze
+23. viang
+24. weizhizhuang
+25. NikaidouHiro114  
