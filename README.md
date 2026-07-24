@@ -5,31 +5,31 @@
 数据来源：list.txt  
 候选人数：107  
 抽取人数：25  
-生成时间：2026-07-24  15:21:46.000  
+生成时间：2026-07-24  15:22:35.000  
 
 ## 获奖名单
-1. 无聊
-2. ZhouZhou
-3. sunqwq
-4. tuanzi-awa
-5. YIGEZIJUE
-6. hrc
-7. ling_qwqawa
-8. Zpcin
-9. 张力Zennon
-10. cole6066
-11. cckcm
-12. 桑蚯
-13. LPani2025
-14. TJX
-15. swx
-16. 。
-17. JasonLongTit
-18. 君浩星辰
-19. Hesperia
-20. kajolno
-21. sunmioko
-22. RainNing
-23. weizhizhuang
-24. lrs2187
-25. liu  
+1. shabuleke
+2. SYSTEM-BAOD-ZYQ
+3. QKboss
+4. ling_qwqawa
+5. K-H
+6. kajolno
+7. sunqwq
+8. xiguang
+9. yizhilanzhu
+10. 有亿点小乐
+11. ZhouZhou
+12. Next-OS-Studio
+13. apanzinc
+14. Hulobo
+15. Jas0n326
+16. Bigznnn
+17. MineThinPCraft
+18. uyindnul
+19. TJX
+20. IsHPDuwu
+21. creeper145664
+22. Ayheit
+23. daiyu
+24. aa76
+25. BSLT20240814  
