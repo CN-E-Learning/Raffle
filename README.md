@@ -5,31 +5,31 @@
 数据来源：list.txt  
 候选人数：107  
 抽取人数：25  
-生成时间：2026-07-24  15:41:35.000  
+生成时间：2026-07-24  16:00:07.000  
 
 ## 获奖名单
-1. Wrxsidox
-2. Hongbro886
-3. Yihggh
-4. 唐
-5. yizhilanzhu
-6. ciparifu
-7. NullptrVoid
-8. Jbyccc
-9. lrs2187
-10. SGX505079
-11. sunmioko
-12. liu
-13. makitoid
-14. jmj626000
-15. doudou0720
-16. ZHRhello
-17. K-H
-18. yijiananhangboyin747
-19. MF.
-20. AWAurora233
-21. XXZ
-22. cckcm
-23. 名字
-24. ZWH
-25. 有亿点小乐  
+1. Zpcin
+2. 岁月迷
+3. xiguang
+4. weiderui
+5. JerryCommander
+6. XINGHAI
+7. 无片云
+8. 桑蚯
+9. ZhouZhou
+10. Leafs
+11. cckcm
+12. lyxqp
+13. MineThinPCraft
+14. Jack-tendy-538
+15. 阿tan
+16. yudun
+17. 名字
+18. dawn の
+19. hxlhm
+20. weizhizhuang
+21. TTStudio
+22. Whitement
+23. Flowey
+24. viang
+25. 凛冬mini  
